@@ -372,6 +372,7 @@ lv_theme_t * lv_theme_get_current(void);
 #include "lv_theme_night.h"
 #include "lv_theme_zen.h"
 #include "lv_theme_mono.h"
+#include "lv_theme_gray4.h"
 #include "lv_theme_nemo.h"
 #include "lv_theme_material.h"
 
